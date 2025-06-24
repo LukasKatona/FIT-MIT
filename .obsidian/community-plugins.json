@@ -2,7 +2,6 @@
   "drawio-obsidian",
   "table-editor-obsidian",
   "calendar",
-  "copilot",
   "obsidian-excalidraw-plugin",
   "find-unlinked-files",
   "obsidian-git",
@@ -13,5 +12,7 @@
   "highlightr-plugin",
   "obsidian-extract-pdf-highlights",
   "obsidian-textgenerator-plugin",
-  "zettelflow"
+  "zettelflow",
+  "timekeep",
+  "obsidian-charts"
 ]
