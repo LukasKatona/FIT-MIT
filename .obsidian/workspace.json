@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "42013c10ae5556cd",
+        "id": "4a792b69d27a9579",
         "type": "tabs",
         "children": [
           {
-            "id": "977ada8ec84057e0",
+            "id": "8484e09bcb7af8b2",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "04 - Other/Weight Stats.md",
-                "mode": "preview",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Weight Stats"
+              "title": "New tab"
             }
           }
         ]
@@ -119,7 +115,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 228
   },
   "right": {
     "id": "762810987b0fd4d9",
@@ -145,7 +141,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "04 - Other/Weight Stats.md",
+                "file": "04 - Other/Working Hours.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +151,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Weight Stats"
+              "title": "Backlinks for Working Hours"
             }
           },
           {
@@ -164,12 +160,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "04 - Other/Weight Stats.md",
+                "file": "05 - Work/02 - Working Hours.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Weight Stats"
+              "title": "Outgoing links from 02 - Working Hours"
             }
           }
         ],
@@ -177,18 +173,17 @@
       }
     ],
     "direction": "horizontal",
-    "width": 292
+    "width": 292,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
       "command-palette:Open command palette": false,
       "obsidian-git:Open Git source control": false,
       "zettelflow:Create a new Zettel Note": false,
-      "obsidian-extract-pdf-highlights:PDF Highlights": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "templates:Insert template": false,
-      "copilot:Open Copilot Chat": false,
       "daily-notes:Open today's daily note": false,
       "zk-prefixer:Create new unique note": false,
       "audio-recorder:Start/stop recording": false,
@@ -198,20 +193,41 @@
       "obsidian-kanban:Create new board": false,
       "smart-connections:Open: View Smart Connections": false,
       "smart-connections:Open: Smart Chat": false,
-      "obsidian-textgenerator-plugin:Generate Text!": false,
-      "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false
+      "pdf-plus:PDF++: Toggle auto-copy": false,
+      "pdf-plus:PDF++: Toggle auto-focus": false,
+      "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "57f4d0380624a3fd",
+  "active": "8484e09bcb7af8b2",
   "lastOpenFiles": [
-    "04 - Other/Working Hours.md",
+    "02 - Literature Notes/1. semester/TIN/Notes.md",
+    "02 - Literature Notes/1. semester/TIN/TIN-studijni-text.pdf",
+    "05 - Work/01 - Prístupy.md",
+    "05 - Work/Projekty/Bon Apetit.md",
+    "05 - Work/Projekty/Slogast.md",
+    "05 - Work/Projekty/Expol.md",
+    "05 - Work/00 - Práca.md",
+    "05 - Work/02 - Výkazy.md",
+    "05 - Work/Projekty",
+    "orphaned files output.md",
+    "02 - Literature Notes/2. semester/SNT/Notes.md",
+    "04 - Other/Filmy na pozretie.md",
+    "04 - Other/Spotify splátky.md",
+    "04 - Other/Nápady na darčeky.md",
     "04 - Other/Weight Stats.md",
+    "05 - Work/Untitled 1.md",
+    "05 - Work",
+    "02 - Literature Notes/2. semester/SNT/SNT-ppt.pdf",
+    "02 - Literature Notes/2. semester/SNT/PPT notes.md",
+    "Highlights for SNT-ppt.md",
+    "02 - Literature Notes/EVO",
+    "02 - Literature Notes/4. semester",
+    "02 - Literature Notes/3. semester",
+    "02 - Literature Notes/2. semester",
+    "02 - Literature Notes/1. semester",
+    "02 - Literature Notes/4. semester/MTIa",
     "Pasted image 20250624093031.png",
     "01 - Fleeting Notes/idk.md",
-    "04 - Other",
-    "03 - Permanent Notes",
-    "02 - Literature Notes",
-    "01 - Fleeting Notes",
     "Welcome.md"
   ]
 }

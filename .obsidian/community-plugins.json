@@ -9,10 +9,8 @@
   "obsidian-kanban",
   "obsidian-tasks-plugin",
   "smart-connections",
-  "highlightr-plugin",
-  "obsidian-extract-pdf-highlights",
-  "obsidian-textgenerator-plugin",
   "zettelflow",
   "timekeep",
-  "obsidian-charts"
+  "obsidian-charts",
+  "pdf-plus"
 ]

@@ -42,7 +42,12 @@
     "use_tool_calls": true
   },
   "smart_notices": {
-    "muted": {}
+    "muted": {
+      "done_import": true,
+      "embedding_complete": true,
+      "embedding_progress": true,
+      "new_version_available": true
+    }
   },
   "version": "",
   "smart_contexts": {
