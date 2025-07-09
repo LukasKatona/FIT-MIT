@@ -1,6 +1,6 @@
 # June 2025
 ```timekeep
-{"entries":[{"name":"Bon Apetit","startTime":"2025-07-02T13:30:00.000Z","endTime":"2025-07-02T16:30:00.000Z","subEntries":null},{"name":"Bon Apetit","startTime":"2025-07-03T07:00:00.000Z","endTime":"2025-07-03T11:00:00.000Z","subEntries":null}]}
+{"entries":[{"name":"Bon Apetit","startTime":"2025-07-02T12:30:00.000Z","endTime":"2025-07-02T16:30:00.000Z","subEntries":null},{"name":"Bon Apetit","startTime":"2025-07-03T07:00:00.000Z","endTime":"2025-07-03T11:00:00.000Z","subEntries":null},{"name":"Nest","startTime":"2025-07-04T12:00:00.000Z","endTime":"2025-07-04T20:00:00.000Z","subEntries":null},{"name":"Nest","startTime":"2025-07-07T05:30:00.000Z","endTime":"2025-07-07T14:30:00.000Z","subEntries":null},{"name":"Nest","startTime":"2025-07-08T07:30:00.000Z","endTime":"2025-07-08T13:30:00.000Z","subEntries":null},{"name":"Block 6","startTime":"2025-07-09T06:07:31.557Z","endTime":null,"subEntries":null}]}
 ```
 
 # June 2025
