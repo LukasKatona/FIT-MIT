@@ -1,3 +1,6 @@
+[[Prístupy]]
+[[Výkazy]]
+
 Bolo by ideálne keby je základná funkčnosť integrácie hotová do 9.7.
 
   

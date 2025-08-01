@@ -5,7 +5,7 @@
   "showAttachments": true,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": true,
+  "collapse-color-groups": false,
   "colorGroups": [
     {
       "query": "path:\"05 - Work\"  ",
@@ -53,6 +53,6 @@
   "repelStrength": 16.0207612456747,
   "linkStrength": 1,
   "linkDistance": 210,
-  "scale": 0.9258673189812967,
-  "close": false
+  "scale": 1.2410520226606945,
+  "close": true
 }

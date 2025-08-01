@@ -1,4 +1,4 @@
-#TIN #Turingove_stroje
+#TIN #Turingove_stroje #5_prednaska
 > [!PDF|255, 208, 0] [[TIN-studijni-text.pdf#page=101&annotation=3591R|TIN-studijni-text, p.100]]
 > > Churchova teze
 

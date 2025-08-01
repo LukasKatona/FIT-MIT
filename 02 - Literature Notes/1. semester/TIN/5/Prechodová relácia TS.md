@@ -1,4 +1,4 @@
-#TIN #Turingove_stroje 
+#TIN #Turingove_stroje #5_prednaska
 > [!PDF|255, 208, 0] [[TIN-studijni-text.pdf#page=102&annotation=3619R|TIN-studijni-text, p.101]]
 > > Přechodová relace TS
 

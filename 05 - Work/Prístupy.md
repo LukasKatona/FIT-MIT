@@ -1,5 +1,3 @@
-#work
-
 https://www.odoo.com/web/login
 
 | meno                     | heslo               |

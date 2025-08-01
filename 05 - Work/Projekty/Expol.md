@@ -1,3 +1,3 @@
-[[01 - Prístupy]]
-[[02 - Výkazy]]
+[[Prístupy]]
+[[Výkazy]]
 # Ulohy

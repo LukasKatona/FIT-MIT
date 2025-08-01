@@ -1,4 +1,4 @@
-#TIN #Turingove_stroje 
+#TIN #Turingove_stroje #5_prednaska
 > [!PDF|255, 208, 0] [[TIN-studijni-text.pdf#page=103&annotation=3647R|TIN-studijni-text, p.102]]
 > > Graﬁcká reprezentace TS
 
